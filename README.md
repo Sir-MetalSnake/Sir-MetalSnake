@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Khrisna Ruiz Ruiz</h1>
 <h2 align="center" ;fontcolor="green"> Full Stack Engineer</h3>
 <p align="justify">
-  Im engineering of software of the University Autonomous of Sinaloa (UAS), Im complete my carer of my university and I want a job with my skills for a make a better engineer with new tecnologies of this workplace.
+  Im engineering of software of the University Autonomous of Sinaloa (UAS), Im completed my carer of my university and I want a job with my skills for a make a better engineer with new tecnologies of this workplace.
 </p>
 
 <div align="center">
