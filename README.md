@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Khrisna Ruiz Ruiz</h1>
 <h2 align="center" ;fontcolor="green"> Full Stack Engineer</h3>
 <p align="justify">
-  Im engineering of software of the University Autonomous of Sinaloa (UAS), Im completed my carer of my university and I want a job with my skills for a make a better engineer with new tecnologies of this workplace.
+  I’m a Software Engineer from UAS (Autonomous University of Sinaloa) in Mexico. I completed my degree in 2025 and graduated from the university. I’m currently looking for a job where I can apply my skills, grow in a professional environment, and learn more programming languages. This is my GitHub profile, where you can find projects I built during university as well as personal projects to keep improving my skills. Feel free to take a look.
 </p>
 
 <div align="center">
