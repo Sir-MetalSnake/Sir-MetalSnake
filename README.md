@@ -4,9 +4,6 @@
   I’m a Software Engineer from UAS (Autonomous University of Sinaloa) in Mexico. I completed my degree in 2025 and graduated from the university. I’m currently looking for a job where I can apply my skills, grow in a professional environment, and learn more programming languages. This is my GitHub profile, where you can find projects I built during university as well as personal projects to keep improving my skills. Feel free to take a look.
 </p>
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-metalsnake&show_icons=true&locale=en" alt="sir-metalsnake" /></p>
-</div>
 
 
 <h2 align="left">My skills:</h3>
